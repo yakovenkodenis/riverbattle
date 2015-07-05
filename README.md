@@ -20,6 +20,10 @@ Or install it yourself as:
 
 ## Usage
 
+ After `gem install` the game is reachable by the command `riverbattle`
+
+ Or in irb:
+
 ```ruby
 require 'yakovenko_riverbattle'
 Game.new.start
