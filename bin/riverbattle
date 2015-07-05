@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
 
-require 'lib/yakovenko_riverbattle/base'
+require_relative '../lib/yakovenko_riverbattle/base'
 
 game = Game.new.start
