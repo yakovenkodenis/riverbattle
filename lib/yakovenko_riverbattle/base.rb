@@ -1,3 +1,3 @@
-require 'yakovenko_riverbattle/game'
+require_relative 'game'
 
 game = Game.new.start

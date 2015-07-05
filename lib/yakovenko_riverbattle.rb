@@ -1,5 +1,5 @@
-require "yakovenko_riverbattle/version"
+require_relative "yakovenko_riverbattle/version"
 
 module YakovenkoRiverbattle
-  require "yakovenko_riverbattle/base"
+  require_relative "yakovenko_riverbattle/base"
 end

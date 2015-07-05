@@ -1,11 +1,11 @@
-require './field'
-require './human'
-require './computer'
-require './colorful'
-require './constants'
-require './exit_error'
-require './victory_error'
-require './invalid_move_error'
+require_relative 'field'
+require_relative 'human'
+require_relative 'computer'
+require_relative 'colorful'
+require_relative 'constants'
+require_relative 'exit_error'
+require_relative 'victory_error'
+require_relative 'invalid_move_error'
 
 =begin
 	This is the main class of the game that

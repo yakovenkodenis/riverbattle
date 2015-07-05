@@ -1,6 +1,6 @@
-require './colorful'
-require './move'
-require './invalid_move_error'
+require_relative 'colorful'
+require_relative 'move'
+require_relative 'invalid_move_error'
 
 =begin
 	Represents the game field object.

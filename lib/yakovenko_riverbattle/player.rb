@@ -1,6 +1,6 @@
-require './move'
-require './field'
-require './invalid_move_error'
+require_relative 'move'
+require_relative 'field'
+require_relative 'invalid_move_error'
 
 
 =begin

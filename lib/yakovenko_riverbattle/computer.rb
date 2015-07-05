@@ -1,6 +1,6 @@
-require './player'
-require './constants'
-require './invalid_move_error'
+require_relative 'player'
+require_relative 'constants'
+require_relative 'invalid_move_error'
 
 =begin
 	Represents the Computer player

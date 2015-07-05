@@ -1,7 +1,7 @@
-require './human'
-require './colorful'
-require './computer'
-require './constants'
+require_relative 'human'
+require_relative 'colorful'
+require_relative 'computer'
+require_relative 'constants'
 
 =begin
 	The specially created error that
