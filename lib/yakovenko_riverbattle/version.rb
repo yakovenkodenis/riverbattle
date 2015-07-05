@@ -1,3 +1,3 @@
-module YAKOVENKO_RIVERBATTLE
-	VERSION = "0.1.0"
+module YakovenkoRiverbattle
+  VERSION = "0.1.1"
 end
