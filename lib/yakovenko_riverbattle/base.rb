@@ -1,3 +1,3 @@
 require_relative 'game'
 
-game = Game.new.start
+# game = Game.new.start
