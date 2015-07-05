@@ -1,5 +1,3 @@
-# YakovenkoRiverbattle
-
 # Riverbattle
 A simple console game.
 
