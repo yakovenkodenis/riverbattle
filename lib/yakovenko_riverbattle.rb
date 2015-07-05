@@ -1,0 +1,1 @@
+require 'yakovenko_riverbattle/base'

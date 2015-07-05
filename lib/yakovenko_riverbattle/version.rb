@@ -1,0 +1,3 @@
+module YAKOVENKO_RIVERBATTLE
+	VERSION = "0.1.0"
+end
