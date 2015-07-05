@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["yakovenko.denis.a@gmail.com"]
 
   spec.summary       = %q{Enjoy the game!}
-  spec.description   = %q{TA small simple game called the Riverbattle.}
+  spec.description   = %q{A small simple game called the Riverbattle.}
   spec.license       = "MIT"
   spec.required_ruby_version = '>= 2.0'
 
