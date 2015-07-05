@@ -35,12 +35,4 @@ describe YakovenkoRiverbattle do
  
     end
 
-    context 'Human class' do
-
-        it 'contains 9 methods' do
-            expect(Player.instance_methods.size).to eq(9)
-        end
-
-    end
-
 end
