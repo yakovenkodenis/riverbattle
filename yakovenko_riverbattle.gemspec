@@ -15,9 +15,10 @@ Gem::Specification.new do |spec|
   spec.required_ruby_version = '>= 2.0'
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
-  spec.bindir        = "exe"
+  spec.bindir        = "bin"
   # spec.executables   = spec.files.grep(%r{^exe/}) { |f| File.basename(f) }
-  spec.executables   = ["bin/riverbattle"]
+  spec.executables   = ["riverbattle"]
+  # spec.executables   = [spec.files.grep(%r{^bin/}) { |f| File.basename(f) }]
   spec.require_paths = ["lib"]
 
   spec.add_development_dependency "bundler", "~> 1.10"
