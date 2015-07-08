@@ -29,6 +29,12 @@ require 'yakovenko_riverbattle'
 Game.new.start
 ```
 
+## Screenshots
+
+![The Game](http://i.imgur.com/4psotib.png)
+
+![Victory](http://i.imgur.com/R7RbXL4.png)
+
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
